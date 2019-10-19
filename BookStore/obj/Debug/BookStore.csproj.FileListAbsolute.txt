@@ -1,0 +1,63 @@
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\bin\Debug\BookStore.exe
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\bin\Debug\BookStore.pdb
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.AlisverisSepetiForm.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.DergiTanim.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.Giris.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.KitapTanim.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.MusteriBilgi.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.MusteriGiris.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.AdminGiris.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.MusteriKayit.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.AdminKayit.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.MuzikTanim.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.exe
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.pdb
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\KartFormu.KartForm.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.AlisverisSayfa.resources
+C:\Users\argunpc\Desktop\YEDEK\en son\BookStore\obj\Debug\BookStore.Ekle.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.AlisverisSayfa.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.AlisverisSepetiForm.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.DergiTanim.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.Ekle.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.Giris.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\KartFormu.KartForm.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.KitapTanim.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.MusteriBilgi.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.MusteriGiris.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.AdminGiris.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.MusteriKayit.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.AdminKayit.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.MuzikTanim.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\argunpc\Desktop\YEDEK\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.AlisverisSayfa.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.AlisverisSepetiForm.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.DergiTanim.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.Ekle.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.Giris.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\KartFormu.KartForm.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.KitapTanim.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.MusteriBilgi.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.MusteriGiris.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.AdminGiris.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.MusteriKayit.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.AdminKayit.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.MuzikTanim.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\argunpc\Desktop\Kitap Satış-152120161038\BookStore\BookStore\obj\Debug\BookStore.pdb
